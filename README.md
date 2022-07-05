@@ -15,6 +15,7 @@ The data used to make my analysis is
 ## Results
 #### Data Column Correlation
 ![heatmap](image.png)
+
 This is where I was able to decipher that Item MRP had the strongest correlation to the Item Sales.
 ![scatterplot](image2.png)
 ## Model
