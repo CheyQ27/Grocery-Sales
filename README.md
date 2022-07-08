@@ -20,7 +20,7 @@ This is where I was able to decipher that Item MRP had the strongest correlation
 ![scatterplot](image2.png)
 ## Model
 I chose to implement a linear regression model
-to make predictions based on the dataset with which I conducted my project. I believe that it yields the best with with minimal error based on its R2 metric.The Linear Regression model has a 99% percent R2 score and has been shown to present a good fit 
+to make predictions based on the dataset with which I conducted my project. I believe that it yields the best with with minimal error based on its R2 metric.The Linear Regression model has a 57% percent R2 score and has been shown to present a good fit 
 ## Recommendations:
 Based on my research the recommendation is to increase the Item MRP of the products being sold to increase the sale of these same products.
 ## Limitations & Next Steps
