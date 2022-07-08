@@ -48,7 +48,13 @@ The data used to make my analysis is
 ## Results
 ![scatterplot](image3.png) 
 ![scatterplot](image4.png) 
-##Analysis of visuals
+## Analysis of visuals
 My plots show a map of the Beijing communities coloring each point by price of homes in the first plot and by the aver community income in the second plot.
 My first observation was that of coure the maps are identical but the community average income plot differs from the price map plot in that toward the center of the plot there is a higher concentration of high incomes.
 The closer one moves to 39.9 lat, 116.4 lng the more expensive the homes. Thus visualizing what my correlation plot plots have may clear. There is a strong positive correlation between the prices of the homes and the incomes of the people that live in those communities.
+## Recommendations:
+Based on my findings, I believe any agency that wants to up their revenue and holdings should invest their time and energy into acquiring clients from these neighborhoods in the center of my plot
+## Limitations & Next Steps
+The limitations to this project are that I don't have a way of knowing if the people that reside in the lightly colored center area are interested in selling. Given the density of wealth it is possible the families have been there a long time, they may be afflueent and intent on maintaining their property. My next steps would be to canvas the areas and find out just what kind of communities they are and how attached to the land are the people in the communities I've studied.
+### For further information
+For any additional questions, please contact **Cheyenne.quann@gmail.com**
