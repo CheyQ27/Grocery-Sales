@@ -11,6 +11,7 @@ The data used to make my analysis is
 - The data will be cleaned to allow for cleaner processing, readability and analysis
 -I will check correlations and create visuals for presentation purposes
 - I will implement machine learning models that would best be able to predict the future of undisclosed company's sales based off of the provided data 
+
 -I will recommend the best model to use depending on the bias and variance present in my chosen regression models
 ## Results
 #### Data Column Correlation
