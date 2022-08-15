@@ -1,7 +1,8 @@
 # Sales Predictions based on Item MRP
 ## Through out this project I will be analyzing the correlation between items sold and item MRP.
 **Cheyenne Quann**: 
-### Business problem: How can we increase total item outlet sales for this company?
+### Business problem: 
+How can we increase total item outlet sales for this company?
 ### Data: 
 The data used to make my analysis is
  /content/drive/MyDrive/Coding Dojo/DataSets/sales_predictions.csv. This dataset contains all pertinent information about the undisclosed company's sales that will be used in my study.
