@@ -1,6 +1,6 @@
 # Sales Predictions based on Item MRP
 ## Through out this project I will be analyzing the correlation between items sold and item MRP.
-**Cheyenne Quann**: 
+**Author**: Cheyenne Quann
 ### Business problem: 
 How can we increase total item outlet sales for this company?
 ### Data: 
